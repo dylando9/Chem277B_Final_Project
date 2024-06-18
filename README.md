@@ -1,6 +1,6 @@
 # Prediction of Molecular Energies using Supervised Learning ANN Model
 
-This repository contains the code and resources for predicting molecular energies using a supervised learning Artificial Neural Network (ANN) model applied to the ANI-1 dataset. The project was carried out as part of UC Berkeley's Chem 277B course.
+This repository contains the code and resources for predicting molecular energies using a supervised learning Artificial Neural Network (ANN) model applied to the ANI-1 dataset. The project was carried out as part of UC Berkeley's Chem 277B (Machine Learning Algorithms) course.
 
 ## Project Overview
 
